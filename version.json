@@ -1,7 +1,7 @@
 {
-  "version": "0.9.1",
-  "build": "2",
+  "version": "0.9.2",
+  "build": "3",
   "forceUpdate": false,
-  "notes": "✨ Test Update: Updated 'Fresh Start' to 'Fresh Starts' in Settings.",
+  "notes": "✨ Test Update: Verifying wireless in-app downloader & OTA dialog!",
   "downloadUrl": "https://github.com/coderlifez/mantra_siddhi_releases/releases/download/v0.9.1-beta/Mantra_Siddhi_v0.9.1-beta.apk"
 }
