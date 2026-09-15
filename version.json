@@ -1,7 +1,7 @@
 {
-  "version": "0.9.5-beta",
-  "build": "6",
+  "version": "0.9.6-beta",
+  "build": "7",
   "forceUpdate": false,
-  "notes": "✨ Upfront Google Account & Google Drive cloud backup during onboarding, unified Data Management & Backup Vault block, Biometric Lock (Fingerprint & Face ID) with loop fix, and sacred temple bell alarm sound fix.",
-  "downloadUrl": "https://github.com/coderlifez/mantra_siddhi_releases/releases/download/v0.9.5-beta/Mantra_Siddhi_v0.9.5-beta.apk"
+  "notes": "✨ 4-Step Standard Onboarding (Language -> Google Sign-In & Drive Backup -> Sadhaka Profile -> Permissions), continuous in-app installation progress shelf, Google Play Protect scanning guidance, and smooth package installer handling.",
+  "downloadUrl": "https://github.com/coderlifez/mantra_siddhi_releases/releases/download/v0.9.6-beta/Mantra_Siddhi_v0.9.6-beta.apk"
 }
