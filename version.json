@@ -1,7 +1,7 @@
 {
-  "version": "0.9.9-beta",
-  "build": "10",
+  "version": "0.9.10-beta",
+  "build": "11",
   "forceUpdate": false,
-  "notes": "✨ Mantra Siddhi v0.9.9-beta update:\n• ⚡ 60% App Size Reduction: primary download reduced to sleek ~23MB (arm64-v8a) & ~20MB (armeabi-v7a)!\n• 🗓️ Sadhaka Profile Date of Birth (DOB) calendar picker with auto-calculated age and no default \"Abhimanyu\" placeholder.\n• 🔒 Enhanced Security PIN: 4-digit auto-advance, sacred security question dropdown, and offline master recovery code (108108) directly under PIN setup.\n• 🔄 Sadhaka Profile Deletion with continuous app reset flow: optional dual safety backup (Cloud + Local), automatic Google logout, passcode wipe, and smooth transition back to onboarding.\n• 📂 Step 1 language selection streamlined; backup detection and browsing unified in Step 2.\n• 📱 Architecture Guide: Recommended for 99% of devices: Mantra_Siddhi_v0.9.9-beta.apk (23MB). Older 32-bit devices: Mantra_Siddhi_v0.9.9-beta_armeabi-v7a.apk (20MB). Universal fallback: Mantra_Siddhi_v0.9.9-beta_universal.apk (60MB).",
-  "downloadUrl": "https://github.com/coderlifez/mantra_siddhi_releases/releases/download/v0.9.9-beta/Mantra_Siddhi_v0.9.9-beta.apk"
+  "notes": "✨ Mantra Siddhi v0.9.10-beta update:\n• ⏱️ Passcode Overlay & Resilient Background Updates: Downloading updates is no longer lost if you minimize the app or lock the screen.\n• 📿 Log Chanting Session Refinements: Watermark 0 hint (no more deleting '0'), 'Mantras Done' renaming, and end-time capped to current time for today.\n• 📊 Analytics Overhaul: Pacing & Forecast at the top, fixed 24 1-hour slots, and interactive Daily Trend bars that reveal the day's 24h hourly distribution.\n• 👤 Mandatory Sadhaka Profile Details: Full Name, Date of Birth (DOB), Gender, and 10-digit Phone strictly verified.\n• ☁️ Drive Auto-Restore on Onboarding: 1-tap backup restore upon Google sign-in.\n• 🔒 Unified Security PIN Dialog: Centralized 4-digit PIN setup with biometrics, security questions, and offline 108108 master code.\n• 🎨 Warm Ivory & Chandan Light Theme: Eliminated harsh glaring white for peaceful chanting.\n• 🔔 Notification Height Fix: Timer chronometer no longer cut off in Android status bar.",
+  "downloadUrl": "https://github.com/coderlifez/mantra_siddhi_releases/releases/download/v0.9.10-beta/Mantra_Siddhi_v0.9.10-beta.apk"
 }
