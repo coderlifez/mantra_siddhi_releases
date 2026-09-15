@@ -1,7 +1,7 @@
 {
-  "version": "0.9.4-beta",
-  "build": "5",
+  "version": "0.9.5-beta",
+  "build": "6",
   "forceUpdate": false,
-  "notes": "✨ Biometric Authentication (Fingerprint & Face ID), Private Google Drive AppData Sync ($0 Cloud Backup), neutral Ishta Devta default, cleaned button labels, and segregated Settings screen with inline accordion reset.",
-  "downloadUrl": "https://github.com/coderlifez/mantra_siddhi_releases/releases/download/v0.9.4-beta/Mantra_Siddhi_v0.9.4-beta.apk"
+  "notes": "✨ Upfront Google Account & Google Drive cloud backup during onboarding, unified Data Management & Backup Vault block, Biometric Lock (Fingerprint & Face ID) with loop fix, and sacred temple bell alarm sound fix.",
+  "downloadUrl": "https://github.com/coderlifez/mantra_siddhi_releases/releases/download/v0.9.5-beta/Mantra_Siddhi_v0.9.5-beta.apk"
 }
