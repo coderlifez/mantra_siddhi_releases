@@ -1,7 +1,7 @@
 {
-  "version": "0.9.7-beta",
-  "build": "8",
+  "version": "0.9.8-beta",
+  "build": "9",
   "forceUpdate": false,
-  "notes": "✨ Mantra Siddhi v0.9.7-beta update: 5-Step Onboarding with Google Sign-in & Drive Cloud Backup, Mother's Sacred Sangha (साधक संघ) with gentle daily encouragement, automatic instant cloud sync on japa logs, profile deletion with dual emergency backup (Cloud + Local), and backwards-compatible seamless OTA updates.",
-  "downloadUrl": "https://github.com/coderlifez/mantra_siddhi_releases/releases/download/v0.9.7-beta/Mantra_Siddhi_v0.9.7-beta.apk"
+  "notes": "Release v0.9.8-beta: R8 APK size optimization, clean Step 1 onboarding, Google People API sync, 3-option profile delete with offline guard, PIN auto-advance, in-app sangha nudges, diagnostic bug reporting",
+  "downloadUrl": "https://github.com/coderlifez/mantra_siddhi_releases/releases/download/v0.9.8-beta/Mantra_Siddhi_v0.9.8-beta.apk"
 }
