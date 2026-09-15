@@ -1,7 +1,7 @@
 {
-  "version": "0.9.6-beta",
-  "build": "7",
+  "version": "0.9.7-beta",
+  "build": "8",
   "forceUpdate": false,
-  "notes": "✨ 4-Step Standard Onboarding (Language -> Google Sign-In & Drive Backup -> Sadhaka Profile -> Permissions), continuous in-app installation progress shelf, Google Play Protect scanning guidance, and smooth package installer handling.",
-  "downloadUrl": "https://github.com/coderlifez/mantra_siddhi_releases/releases/download/v0.9.6-beta/Mantra_Siddhi_v0.9.6-beta.apk"
+  "notes": "✨ Mantra Siddhi v0.9.7-beta update: 5-Step Onboarding with Google Sign-in & Drive Cloud Backup, Mother's Sacred Sangha (साधक संघ) with gentle daily encouragement, automatic instant cloud sync on japa logs, profile deletion with dual emergency backup (Cloud + Local), and backwards-compatible seamless OTA updates.",
+  "downloadUrl": "https://github.com/coderlifez/mantra_siddhi_releases/releases/download/v0.9.7-beta/Mantra_Siddhi_v0.9.7-beta.apk"
 }
