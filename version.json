@@ -1,7 +1,7 @@
 {
-  "version": "0.9.2-beta",
-  "build": "3",
+  "version": "0.9.3-beta",
+  "build": "4",
   "forceUpdate": false,
-  "notes": "✨ Upfront Permissions Onboarding, Permissions Center in Settings, and seamless In-House Background Updates.",
-  "downloadUrl": "https://github.com/coderlifez/mantra_siddhi_releases/releases/download/v0.9.2-beta/Mantra_Siddhi_v0.9.2-beta.apk"
+  "notes": "✨ 3-Mode Theme Switcher (Auto, Dark, Light), strictly gated Upfront Permissions onboarding, theme-adaptive Onboarding & Permissions screens, and streamlined Settings screen.",
+  "downloadUrl": "https://github.com/coderlifez/mantra_siddhi_releases/releases/download/v0.9.3-beta/Mantra_Siddhi_v0.9.3-beta.apk"
 }
