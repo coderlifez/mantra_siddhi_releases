@@ -1,7 +1,7 @@
 {
-  "version": "0.9.3-beta",
-  "build": "4",
+  "version": "0.9.4-beta",
+  "build": "5",
   "forceUpdate": false,
-  "notes": "✨ 3-Mode Theme Switcher (Auto, Dark, Light), strictly gated Upfront Permissions onboarding, theme-adaptive Onboarding & Permissions screens, and streamlined Settings screen.",
-  "downloadUrl": "https://github.com/coderlifez/mantra_siddhi_releases/releases/download/v0.9.3-beta/Mantra_Siddhi_v0.9.3-beta.apk"
+  "notes": "✨ Biometric Authentication (Fingerprint & Face ID), Private Google Drive AppData Sync ($0 Cloud Backup), neutral Ishta Devta default, cleaned button labels, and segregated Settings screen with inline accordion reset.",
+  "downloadUrl": "https://github.com/coderlifez/mantra_siddhi_releases/releases/download/v0.9.4-beta/Mantra_Siddhi_v0.9.4-beta.apk"
 }
