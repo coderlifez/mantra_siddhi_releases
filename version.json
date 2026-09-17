@@ -1,7 +1,7 @@
 {
-  "version": "0.9.10-beta",
-  "build": "11",
+  "version": "0.9.11-beta",
+  "build": "12",
   "forceUpdate": false,
-  "notes": "✨ Mantra Siddhi v0.9.10-beta update:\n• ⏱️ Passcode Overlay & Resilient Background Updates: Downloading updates is no longer lost if you minimize the app or lock the screen.\n• 📿 Log Chanting Session Refinements: Watermark 0 hint (no more deleting '0'), 'Mantras Done' renaming, and end-time capped to current time for today.\n• 📊 Analytics Overhaul: Pacing & Forecast at the top, fixed 24 1-hour slots, and interactive Daily Trend bars that reveal the day's 24h hourly distribution.\n• 👤 Mandatory Sadhaka Profile Details: Full Name, Date of Birth (DOB), Gender, and 10-digit Phone strictly verified.\n• ☁️ Drive Auto-Restore on Onboarding: 1-tap backup restore upon Google sign-in.\n• 🔒 Unified Security PIN Dialog: Centralized 4-digit PIN setup with biometrics, security questions, and offline 108108 master code.\n• 🎨 Warm Ivory & Chandan Light Theme: Eliminated harsh glaring white for peaceful chanting.\n• 🔔 Notification Height Fix: Timer chronometer no longer cut off in Android status bar.",
-  "downloadUrl": "https://github.com/coderlifez/mantra_siddhi_releases/releases/download/v0.9.10-beta/Mantra_Siddhi_v0.9.10-beta.apk"
+  "notes": "✨ Mantra Siddhi v0.9.11-beta update:\n• 📊 Sadhana Analytics: Unified comprehensive Forecast on top (Current Pace, 7d/All averages, Completion date, remaining days/malas, Ahead/Behind pace badge, and Sacred Guidance tip) and removed redundant forecast tab.\n• ⏱️ Passcode Overlay & Resilient Background Updates.\n• 📿 Log Chanting Session Refinements: Watermark 0 hint, 'Mantras Done' renaming, and end-time capped to current time for today.\n• 👤 Mandatory Sadhaka Profile Details.\n• ☁️ Google Drive Auto-Restore on Onboarding.\n• 🔒 Unified Security PIN Dialog.\n• 🎨 Warm Ivory & Chandan Light Theme.",
+  "downloadUrl": "https://github.com/coderlifez/mantra_siddhi_releases/releases/download/v0.9.11-beta/Mantra_Siddhi_v0.9.11-beta.apk"
 }
